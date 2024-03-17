@@ -1,0 +1,15 @@
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\bin\Debug\net8.0\tpmod5.exe
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\bin\Debug\net8.0\tpmod5.deps.json
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\bin\Debug\net8.0\tpmod5.runtimeconfig.json
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\bin\Debug\net8.0\tpmod5.dll
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\bin\Debug\net8.0\tpmod5.pdb
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.GeneratedMSBuildEditorConfig.editorconfig
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.AssemblyInfoInputs.cache
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.AssemblyInfo.cs
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.csproj.CoreCompileInputs.cache
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.sourcelink.json
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.dll
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\refint\tpmod5.dll
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.pdb
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\tpmod5.genruntimeconfig.cache
+D:\! Coleg\KPL\TPmod5\tpmod5\tpmod5\obj\Debug\net8.0\ref\tpmod5.dll
