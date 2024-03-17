@@ -9,6 +9,9 @@ class Program
     {
         HaloGenerik<String> data = new HaloGenerik<string>("Arvin");
         data.PrintData();
+
+        DataGenerik<String> date = new DataGenerik<string>("1302223136");
+        date.PrintData();
     }
 }
 
